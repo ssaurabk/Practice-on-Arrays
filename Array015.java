@@ -1,5 +1,5 @@
 package com.practice.array;
-
+//Details: https://goo.gl/DLW4p4
 public class Array015 {
 
 	public static void main(String[] args) {
